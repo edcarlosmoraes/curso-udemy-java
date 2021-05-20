@@ -6,3 +6,6 @@ Estou seguindo o curso completo de programação orientada a objetos mais projet
 ## Descrição dos exercícios
 ### Movimentação no Estoque (curso_programacao)
 Nesse exemplo é simulado a aquisição, saída e entrada da mercadoria no estoque
+
+### Informações Retângulo (exercicio1)
+É solicitado dois número e o programa faz o cálculo da área, perímetro e da diagonal do retângulo
