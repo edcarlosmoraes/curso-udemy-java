@@ -9,3 +9,6 @@ Nesse exemplo é simulado a aquisição, saída e entrada da mercadoria no estoq
 
 ### Informações Retângulo (exercicio1)
 É solicitado dois número e o programa faz o cálculo da área, perímetro e da diagonal do retângulo
+
+### Novo Salário (exercicio2)
+O programa calcula o valor líquido e acrescenta um percentual em cima desse valor
