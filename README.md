@@ -12,3 +12,6 @@ Nesse exemplo é simulado a aquisição, saída e entrada da mercadoria no estoq
 
 ### Novo Salário (exercicio2)
 O programa calcula o valor líquido e acrescenta um percentual em cima desse valor
+
+### Média Aluno (exercicio3)
+Ao ser informado o nome do aluno e as três notas dele, é retornado a informação se ele atingiu ou não a média
