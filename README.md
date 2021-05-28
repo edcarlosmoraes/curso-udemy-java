@@ -15,3 +15,6 @@ O programa calcula o valor líquido e acrescenta um percentual em cima desse val
 
 ### Média Aluno (exercicio3)
 Ao ser informado o nome do aluno e as três notas dele, é retornado a informação se ele atingiu ou não a média
+
+### Movimentação Banco (exercicio4)
+Neste exercício é possível abrir uma conta, informar se quer realizar um depósito inicial e fazer um depósito e saque, mostrando o saldo em cada operação
