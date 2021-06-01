@@ -18,3 +18,6 @@ Ao ser informado o nome do aluno e as três notas dele, é retornado a informaç
 
 ### Movimentação Banco (exercicio4)
 Neste exercício é possível abrir uma conta, informar se quer realizar um depósito inicial e fazer um depósito e saque, mostrando o saldo em cada operação
+
+### Cadastro Produto (exercicio5)
+É feito o cadastro dos produtos através da quantidade informada e depois calculado o preço médio deles
