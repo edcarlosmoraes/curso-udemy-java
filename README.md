@@ -21,3 +21,6 @@ Neste exercício é possível abrir uma conta, informar se quer realizar um dep�
 
 ### Cadastro Produto (exercicio5)
 É feito o cadastro dos produtos através da quantidade informada e depois calculado o preço médio deles
+
+### Aluguel Quarto (exercicio6)
+O usuário informa o número de quartos que quer alugar, informando também o nome e email, retornando a lista com os dados informados
