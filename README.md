@@ -24,3 +24,6 @@ Neste exercício é possível abrir uma conta, informar se quer realizar um dep�
 
 ### Aluguel Quarto (exercicio6)
 O usuário informa o número de quartos que quer alugar, informando também o nome e email, retornando a lista com os dados informados
+
+### Cadastro Empregados (exercicio7)
+Realiza o cadastro de funcionários, altera o valor do salário do empregado desejado e retorna a lista de todas as informações inseridas
