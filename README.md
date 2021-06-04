@@ -27,3 +27,6 @@ O usuário informa o número de quartos que quer alugar, informando também o no
 
 ### Cadastro Empregados (exercicio7)
 Realiza o cadastro de funcionários, altera o valor do salário do empregado desejado e retorna a lista de todas as informações inseridas
+
+### Matriz Diagonal (execicio8)
+Após informado o tamanho da matriz, o programa retorna a matriz diagonal e quantos números negativos a matriz tem
