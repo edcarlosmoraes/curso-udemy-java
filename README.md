@@ -30,3 +30,6 @@ Realiza o cadastro de funcionários, altera o valor do salário do empregado des
 
 ### Matriz Diagonal (execicio8)
 Após informado o tamanho da matriz, o programa retorna a matriz diagonal e quantos números negativos a matriz tem
+
+### Valores Matriz (exercicio9)
+Informando o tamanho da matriz e um número que esteja nela, o programa retorna com a posição e os número que estão em volta dele
