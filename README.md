@@ -33,3 +33,6 @@ Após informado o tamanho da matriz, o programa retorna a matriz diagonal e quan
 
 ### Valores Matriz (exercicio9)
 Informando o tamanho da matriz e um número que esteja nela, o programa retorna com a posição e os número que estão em volta dele
+
+### Status Pedido (exercicio10)
+O programa mostra os status possíveis de um pedido
