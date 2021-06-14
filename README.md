@@ -36,3 +36,6 @@ Informando o tamanho da matriz e um número que esteja nela, o programa retorna 
 
 ### Status Pedido (exercicio10)
 O programa mostra os status possíveis de um pedido
+
+### Relatório Trabalhador (exercicio11)
+Esse exercício traz as informações de um trabalhador, quantos contratos ele fechou e qual foi o salário dele no mês que o usuário solicitar
