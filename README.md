@@ -39,3 +39,6 @@ O programa mostra os status possíveis de um pedido
 
 ### Relatório Trabalhador (exercicio11)
 Esse exercício traz as informações de um trabalhador, quantos contratos ele fechou e qual foi o salário dele no mês que o usuário solicitar
+
+### Posts (exercicio12)
+Mostra os dados de um post como momento, descrição, likes e também os comentários que obtiveram
