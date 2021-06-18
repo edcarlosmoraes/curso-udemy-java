@@ -42,3 +42,6 @@ Esse exercício traz as informações de um trabalhador, quantos contratos ele f
 
 ### Posts (exercicio12)
 Mostra os dados de um post como momento, descrição, likes e também os comentários que obtiveram
+
+### Pedidos (exercicio13)
+É informado os dados do cliente os dados dos produtos adquiridos e o programa retornar com o total e os dados dos itens
