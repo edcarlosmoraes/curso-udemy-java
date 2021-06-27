@@ -45,3 +45,6 @@ Mostra os dados de um post como momento, descrição, likes e também os coment�
 
 ### Pedidos (exercicio13)
 É informado os dados do cliente os dados dos produtos adquiridos e o programa retornar com o total e os dados dos itens
+
+### Contas Bancárias (exercicio14)
+Nesse exercício é possível sacar valores em tipos de contas diferentes, sendo cobrado taxas diferentes
