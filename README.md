@@ -48,3 +48,6 @@ Mostra os dados de um post como momento, descrição, likes e também os coment�
 
 ### Contas Bancárias (exercicio14)
 Nesse exercício é possível sacar valores em tipos de contas diferentes, sendo cobrado taxas diferentes
+
+### Pagamento Empregados (exercicio15)
+O usuário informa uma quantidade de empregados que deseja cadastrar, informando se ele é terceirizado, nome, horas e valor por hora, retornando uma lista com as informações
