@@ -51,3 +51,6 @@ Nesse exercício é possível sacar valores em tipos de contas diferentes, sendo
 
 ### Pagamento Empregados (exercicio15)
 O usuário informa uma quantidade de empregados que deseja cadastrar, informando se ele é terceirizado, nome, horas e valor por hora, retornando uma lista com as informações
+
+### Tipo de Produtos (exercicio16)
+Inserindo a quantidade de produtos que quer cadastrar e o tipo de produto (comum, importado ou usado), bem como os dados para cada um, é retornado uma lista com os dados específico de cada tipo
