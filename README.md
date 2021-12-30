@@ -54,3 +54,6 @@ O usuário informa uma quantidade de empregados que deseja cadastrar, informando
 
 ### Tipo de Produtos (exercicio16)
 Inserindo a quantidade de produtos que quer cadastrar e o tipo de produto (comum, importado ou usado), bem como os dados para cada um, é retornado uma lista com os dados específico de cada tipo
+
+### Cálculo de Áreas (exercicio17)
+Com as informações passadas pelo usuário, é possível calcular a área de um retângulo ou de um circulo conforme solicitado
